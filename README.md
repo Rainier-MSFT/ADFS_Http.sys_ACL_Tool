@@ -2,7 +2,7 @@
 
 ![ADFS_Http.sys_ACL_Tool](DocImages/splash.jpg)
 
-![Cloud-Identity-Lab](DocImages/2.png)
+![ADFS Http.sys-Bind-Tool](DocImages/main.jpg)
 
 ![Cloud-Identity-Lab](DocImages/3.png)
 
