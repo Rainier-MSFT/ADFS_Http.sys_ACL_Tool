@@ -6,7 +6,7 @@
 ![ADFS Http.sys-Bind-Tool](DocImages/main.jpg)
 
 
-![Cloud-Identity-Lab](DocImages/edit.jpg)
+![ADFS Http.sys-Bind-Tool](DocImages/edit.jpg)
 
 
 ![ADFS Http.sys-Bind-Tool](DocImages/list.jpg)
