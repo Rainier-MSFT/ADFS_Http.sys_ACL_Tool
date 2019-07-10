@@ -1,4 +1,4 @@
-# ADFS Http.sys-Bind-Tool
+# ADFS Http.sys ACL Tool
 
 ![ADFS_Http.sys_ACL_Tool](DocImages/splash.jpg){:height="50%" width="50%"}
 
