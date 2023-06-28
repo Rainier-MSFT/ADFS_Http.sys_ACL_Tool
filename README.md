@@ -1,6 +1,6 @@
 # ADFS Http.sys ACL Tool
 
-Custom tool developed to simplify analysis and remedition of HTTP.sys bindings for ADFS and WAP related communications.
+Custom tool developed to simplify analysis and remedition of HTTP.sys bindings for ADFS and WAP issues.
 
 <img src="DocImages/splash.jpg" width=50%>
 
